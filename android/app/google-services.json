@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513247497467",
+    "project_id": "zema-935c4",
+    "storage_bucket": "zema-935c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513247497467:android:0f4dfb8ad4c65069cc345e",
+        "android_client_info": {
+          "package_name": "com.example.zema_multimedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513247497467-s1pesck5h3ltc6nv19al4b7jmvlprlh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALPIfXSuJ8zuTMqmnT2txk5FCLAz4tjmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513247497467-s1pesck5h3ltc6nv19al4b7jmvlprlh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
